@@ -6,7 +6,7 @@ import (
 	"github.com/bgentry/speakeasy"
 	"github.com/pkg/errors"
 	"github.com/spf13/viper"
-	keys "github.com/tendermint/go-crypto/keys"
+	keys "github.com/c3systems/go-crypto/keys"
 	data "github.com/tendermint/go-wire/data"
 	"github.com/tendermint/tmlibs/cli"
 )

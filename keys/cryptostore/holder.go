@@ -1,6 +1,6 @@
 package cryptostore
 
-import keys "github.com/tendermint/go-crypto/keys"
+import keys "github.com/c3systems/go-crypto/keys"
 
 // Manager combines encyption and storage implementation to provide
 // a full-featured key manager

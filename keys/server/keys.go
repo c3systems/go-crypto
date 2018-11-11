@@ -5,8 +5,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	keys "github.com/tendermint/go-crypto/keys"
-	"github.com/tendermint/go-crypto/keys/server/types"
+	keys "github.com/c3systems/go-crypto/keys"
+	"github.com/c3systems/go-crypto/keys/server/types"
 )
 
 type Keys struct {

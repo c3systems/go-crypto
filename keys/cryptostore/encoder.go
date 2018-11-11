@@ -2,7 +2,7 @@ package cryptostore
 
 import (
 	"github.com/pkg/errors"
-	crypto "github.com/tendermint/go-crypto"
+	crypto "github.com/c3systems/go-crypto"
 )
 
 var (

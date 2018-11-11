@@ -2,7 +2,7 @@ package tx
 
 import (
 	"github.com/pkg/errors"
-	crypto "github.com/tendermint/go-crypto"
+	crypto "github.com/c3systems/go-crypto"
 	data "github.com/tendermint/go-wire/data"
 )
 

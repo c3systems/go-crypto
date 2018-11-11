@@ -17,7 +17,7 @@ package main
 import (
 	"os"
 
-	"github.com/tendermint/go-crypto/cmd"
+	"github.com/c3systems/go-crypto/cmd"
 	"github.com/tendermint/tmlibs/cli"
 )
 

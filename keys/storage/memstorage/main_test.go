@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	crypto "github.com/tendermint/go-crypto"
-	keys "github.com/tendermint/go-crypto/keys"
+	crypto "github.com/c3systems/go-crypto"
+	keys "github.com/c3systems/go-crypto/keys"
 )
 
 func TestBasicCRUD(t *testing.T) {

@@ -1,8 +1,8 @@
 package tx
 
 import (
-	crypto "github.com/tendermint/go-crypto"
-	keys "github.com/tendermint/go-crypto/keys"
+	crypto "github.com/c3systems/go-crypto"
+	keys "github.com/c3systems/go-crypto/keys"
 	data "github.com/tendermint/go-wire/data"
 )
 
