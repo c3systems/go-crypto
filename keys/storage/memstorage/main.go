@@ -7,7 +7,7 @@ package memstorage
 
 import (
 	"github.com/pkg/errors"
-	keys "github.com/tendermint/go-crypto/keys"
+	keys "github.com/c3systems/go-crypto/keys"
 )
 
 type data struct {

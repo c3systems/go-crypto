@@ -17,7 +17,7 @@ package crypto_test
 import (
 	"fmt"
 
-	"github.com/tendermint/go-crypto"
+	"github.com/c3systems/go-crypto"
 )
 
 func ExampleSha256() {

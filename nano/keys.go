@@ -8,7 +8,7 @@ import (
 
 	ledger "github.com/ethanfrey/ledger"
 
-	crypto "github.com/tendermint/go-crypto"
+	crypto "github.com/c3systems/go-crypto"
 	wire "github.com/tendermint/go-wire"
 )
 

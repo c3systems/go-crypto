@@ -5,10 +5,10 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	crypto "github.com/tendermint/go-crypto"
+	crypto "github.com/c3systems/go-crypto"
 	cmn "github.com/tendermint/tmlibs/common"
 
-	keys "github.com/tendermint/go-crypto/keys"
+	keys "github.com/c3systems/go-crypto/keys"
 )
 
 func TestSortKeys(t *testing.T) {

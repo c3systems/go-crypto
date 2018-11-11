@@ -7,7 +7,7 @@ import (
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	crypto "github.com/tendermint/go-crypto"
+	crypto "github.com/c3systems/go-crypto"
 )
 
 func parseEdKey(data []byte) (key crypto.PubKey, err error) {

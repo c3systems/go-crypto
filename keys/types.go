@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sort"
 
-	crypto "github.com/tendermint/go-crypto"
+	crypto "github.com/c3systems/go-crypto"
 	wire "github.com/tendermint/go-wire"
 	data "github.com/tendermint/go-wire/data"
 )

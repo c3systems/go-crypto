@@ -11,11 +11,11 @@ import (
 
 	cmn "github.com/tendermint/tmlibs/common"
 
-	crypto "github.com/tendermint/go-crypto"
-	"github.com/tendermint/go-crypto/keys"
-	"github.com/tendermint/go-crypto/keys/cryptostore"
-	"github.com/tendermint/go-crypto/keys/storage/memstorage"
-	"github.com/tendermint/go-crypto/nano"
+	crypto "github.com/c3systems/go-crypto"
+	"github.com/c3systems/go-crypto/keys"
+	"github.com/c3systems/go-crypto/keys/cryptostore"
+	"github.com/c3systems/go-crypto/keys/storage/memstorage"
+	"github.com/c3systems/go-crypto/nano"
 )
 
 // TestKeyManagement makes sure we can manipulate these keys well

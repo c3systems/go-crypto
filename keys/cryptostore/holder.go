@@ -3,8 +3,8 @@ package cryptostore
 import (
 	"strings"
 
-	crypto "github.com/tendermint/go-crypto"
-	keys "github.com/tendermint/go-crypto/keys"
+	crypto "github.com/c3systems/go-crypto"
+	keys "github.com/c3systems/go-crypto/keys"
 )
 
 // Manager combines encyption and storage implementation to provide

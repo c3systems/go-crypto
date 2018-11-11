@@ -8,7 +8,7 @@ import (
 
 	cmn "github.com/tendermint/tmlibs/common"
 
-	"github.com/tendermint/go-crypto/keys/cryptostore"
+	"github.com/c3systems/go-crypto/keys/cryptostore"
 )
 
 func TestNoopEncoder(t *testing.T) {

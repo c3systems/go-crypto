@@ -6,7 +6,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/tendermint/go-crypto/keys/wordlist"
+	"github.com/c3systems/go-crypto/keys/wordlist"
 )
 
 const BankSize = 2048

@@ -1,8 +1,8 @@
 package cryptostore
 
 import (
-	crypto "github.com/tendermint/go-crypto"
-	keys "github.com/tendermint/go-crypto/keys"
+	crypto "github.com/c3systems/go-crypto"
+	keys "github.com/c3systems/go-crypto/keys"
 )
 
 // encryptedStorage needs passphrase to get private keys

@@ -2,8 +2,8 @@ package cryptostore
 
 import (
 	"github.com/pkg/errors"
-	crypto "github.com/tendermint/go-crypto"
-	"github.com/tendermint/go-crypto/nano"
+	crypto "github.com/c3systems/go-crypto"
+	"github.com/c3systems/go-crypto/nano"
 )
 
 var (
